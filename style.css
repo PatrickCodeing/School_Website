@@ -1,0 +1,12 @@
+#video{
+    width: 100%;
+    height:500px;
+    border:none;
+}
+body{
+    text-align: center;
+}
+#myNavbar{
+    background-color: crimson;
+    color: azure;
+}
